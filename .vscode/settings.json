@@ -1,0 +1,6 @@
+{
+  "prettier.printWidth": 150,
+  "files.autoSave": "onFocusChange",
+  "diffEditor.wordWrap": "off",
+  "liveServer.settings.port": 5502
+}
